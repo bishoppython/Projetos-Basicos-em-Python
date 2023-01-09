@@ -1,4 +1,4 @@
-# Projetos-Basicos-em-Python
+# Projetos Basicos Desenvolvidos em Python
 
 ## Neste Repositório estão alguns projetos básicos feitos em python, alguns de minha autoria e outros foram forks (do próprio github), dentre eles temos:
 
